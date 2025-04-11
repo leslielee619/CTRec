@@ -84,8 +84,8 @@ https://visielab.uantwerpen.be/
 https://candlehouse.github.io/ArtifactReduction/
 
 ## 博客
-https://tomroelandts.com/articles   
-https://blog.csdn.net/qq_37083038
+[https://tomroelandts.com/articles](https://tomroelandts.com/tags/tomography)      
+[https://blog.csdn.net/qq_37083038](https://blog.csdn.net/qq_37083038)    
 
 ## 数据集
 Open X-ray Tomographic Datasets    
