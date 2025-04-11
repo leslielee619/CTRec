@@ -83,6 +83,10 @@ https://visielab.uantwerpen.be/
 伪影缩减      
 https://candlehouse.github.io/ArtifactReduction/
 
+## 博客
+https://tomroelandts.com/articles   
+https://blog.csdn.net/qq_37083038
+
 ## 数据集
 Open X-ray Tomographic Datasets    
 https://www.fips.fi/dataset.php
