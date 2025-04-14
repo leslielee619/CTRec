@@ -83,6 +83,9 @@ https://visielab.uantwerpen.be/
 伪影缩减      
 https://candlehouse.github.io/ArtifactReduction/
 
+X-RAY DATA BOOKLET.    
+https://xdb.lbl.gov/
+
 ## 博客
 [https://tomroelandts.com/articles](https://tomroelandts.com/tags/tomography)      
 [https://blog.csdn.net/qq_37083038](https://blog.csdn.net/qq_37083038)    
